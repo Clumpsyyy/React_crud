@@ -40,7 +40,7 @@
 body {
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
-  background-image: url('./image/bg.jpg');
+  background-image: url('./images/bg.jpg');
   background-size: cover;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
