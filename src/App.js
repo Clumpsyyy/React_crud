@@ -21,8 +21,7 @@ function App() {
         <Navbar>
           <Container>
             <Nav className="ms-auto">
-              {/* <Nav.Link as={Link} to={"/Candidate"} className="text-decoration-none text-black">Candidate</Nav.Link>
-              <Nav.Link as={Link} to={"/Position"} className="text-decoration-none text-black">Position</Nav.Link> */}
+             
             </Nav>
           </Container>
         </Navbar>
