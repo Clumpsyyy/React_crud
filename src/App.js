@@ -11,6 +11,7 @@ import Login from "./Login";
 import Position from "./Position";
 import Dashboard from './Dashboard';
 import Candidate from "./Candidate"; // Adjust the import statement
+// ayo
 // import Position from "./Position";
 
 function App() {
